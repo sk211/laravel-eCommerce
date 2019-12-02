@@ -1,7 +1,7 @@
 
 ## E-Commerce Business site.it is open source eCommerce-management system
 
-E-commmarce Business website design
+E-commmarce Management Business application 
 
 ## Packages Use
 
