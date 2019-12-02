@@ -24,7 +24,7 @@ class CreateUsersTable extends Migration
             $table->tinyInteger('email_veryfication_token', 80)->nullable();
             $table->string('facebook_id', 32)->nullable();
             $table->string('gmail_id', 32)->nullable();
-            $table->rememberToken();
+            $table->remember_token();
             $table->timestamps();
         });
     }
